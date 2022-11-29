@@ -8,5 +8,5 @@ Projects:
 2. Notes app
 3. Expense Tracker
 <br>
-• Object Oriented Programming by Net Ninja 
-
+• Object Oriented Programming by Net Ninja <br>
+• PHP Tutorial by Mike Dane
