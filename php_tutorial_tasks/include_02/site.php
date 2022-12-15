@@ -15,7 +15,6 @@
 
     include "useful_tools.php";
     sayHi("Mike");
-    echo $feetInMile;
     ?>
 </body>
 
